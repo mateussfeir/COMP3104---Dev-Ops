@@ -1,6 +1,12 @@
 language: node_js
 node_js:
-  - "stable"
+  - "16"
+
+install:
+  - npm ci
+
+script:
+  - npm test
 
 deploy:
   provider: pages
@@ -9,4 +15,3 @@ deploy:
   local_dir: build
   on:
     branch: main
-# trigger build
