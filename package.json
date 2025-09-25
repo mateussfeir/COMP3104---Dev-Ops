@@ -1,0 +1,21 @@
+{
+  "name": "comp3104---devops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Warning: No tests created yet.\"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateussfeir/COMP3104---Dev-Ops.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mateussfeir/COMP3104---Dev-Ops/issues"
+  },
+  "homepage": "https://github.com/mateussfeir/COMP3104---Dev-Ops#readme"
+}
